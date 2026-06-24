@@ -1,0 +1,31 @@
+record_id,inspection_date,agitator_tag,gearbox_tag,motor_tag,component,measurement_type,item_description,unit,source_value,instrument,technician,record_note
+AL-001,2026-07-06,AGT-44,GBX-44,MTR-44,coupling,coupling horizontal offset,coupling horizontal offset,mm,0.06,laser aligner LA-33,P. Miles,after coupling guard removed
+AL-002,2026-07-08,AGT-44,GBX-44,MTR-44,coupling,coupling horizontal offset,coupling horizontal offset,mm,0.14,laser aligner LA-33,P. Miles,warm alignment check
+AL-003,2026-07-08,AGT-44,GBX-44,MTR-44,coupling,coupling vertical offset,coupling vertical offset,mm,0.11,laser aligner LA-33,P. Miles,warm alignment check
+AL-004,2026-07-08,AGT-44,GBX-44,MTR-44,coupling,coupling angularity,coupling angularity,deg,0.13,laser aligner LA-33,P. Miles,warm alignment check
+AL-005,2026-07-08,AGT-44,GBX-44,MTR-44,agitator shaft,agitator shaft runout at coupling,agitator shaft runout at coupling,mm,0.08,dial indicator D-17,P. Miles,rotated by hand
+AL-006,2026-07-08,AGT-44,GBX-44,MTR-44,motor foot front left,soft-foot reading,motor foot front left soft-foot,mm,0.07,feeler gauge set F-03,P. Miles,shim stack measured
+AL-007,2026-07-10,AGT-44,GBX-44,MTR-44,coupling,coupling horizontal offset,coupling horizontal offset,mm,0.08,laser aligner LA-33,K. Norris,commissioning verification
+AL-008,2026-07-10,AGT-44,GBX-44,MTR-44,coupling,coupling angularity,coupling angularity,deg,0.09,laser aligner LA-33,K. Norris,commissioning verification
+AL-009,2026-07-10,AGT-44,GBX-44,MTR-44,agitator shaft,agitator shaft runout at coupling,agitator shaft runout at coupling,mm,0.05,dial indicator D-17,K. Norris,commissioning verification
+AL-010,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.02,feeler gauge set F-03,route team,supplemental foot check
+AL-011,2026-07-10,AGT-44,GBX-44,MTR-44,gearbox foot rear left,soft-foot reading,gearbox foot rear left soft-foot,mm,0.03,feeler gauge set F-03,route team,supplemental foot check
+AL-012,2026-07-05,AGT-44,GBX-44,MTR-44,motor foot rear right,soft-foot reading,motor foot rear right soft-foot,mm,0.04,feeler gauge set F-03,route team,supplemental foot check
+AL-013,2026-07-06,AGT-44,GBX-44,MTR-44,motor foot rear left,soft-foot reading,motor foot rear left soft-foot,mm,0.05,feeler gauge set F-03,route team,supplemental foot check
+AL-014,2026-07-07,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.06,feeler gauge set F-03,route team,supplemental foot check
+AL-015,2026-07-08,AGT-44,GBX-44,MTR-44,gearbox foot rear left,soft-foot reading,gearbox foot rear left soft-foot,mm,0.02,feeler gauge set F-03,route team,supplemental foot check
+AL-016,2026-07-09,AGT-44,GBX-44,MTR-44,motor foot rear right,soft-foot reading,motor foot rear right soft-foot,mm,0.03,feeler gauge set F-03,route team,supplemental foot check
+AL-017,2026-07-10,AGT-44,GBX-44,MTR-44,motor foot rear left,soft-foot reading,motor foot rear left soft-foot,mm,0.04,feeler gauge set F-03,route team,supplemental foot check
+AL-018,2026-07-05,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.05,feeler gauge set F-03,route team,supplemental foot check
+AL-019,2026-07-06,AGT-44,GBX-44,MTR-44,gearbox foot rear left,soft-foot reading,gearbox foot rear left soft-foot,mm,0.06,feeler gauge set F-03,route team,supplemental foot check
+AL-020,2026-07-07,AGT-44,GBX-44,MTR-44,motor foot rear right,soft-foot reading,motor foot rear right soft-foot,mm,0.02,feeler gauge set F-03,route team,supplemental foot check
+AL-021,2026-07-08,AGT-44,GBX-44,MTR-44,motor foot rear left,soft-foot reading,motor foot rear left soft-foot,mm,0.03,feeler gauge set F-03,route team,supplemental foot check
+AL-022,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.04,feeler gauge set F-03,route team,supplemental foot check
+AL-023,2026-07-10,AGT-44,GBX-44,MTR-44,gearbox foot rear left,soft-foot reading,gearbox foot rear left soft-foot,mm,0.05,feeler gauge set F-03,route team,supplemental foot check
+AL-024,2026-07-05,AGT-44,GBX-44,MTR-44,motor foot rear right,soft-foot reading,motor foot rear right soft-foot,mm,0.06,feeler gauge set F-03,route team,supplemental foot check
+AL-025,2026-07-06,AGT-44,GBX-44,MTR-44,motor foot rear left,soft-foot reading,motor foot rear left soft-foot,mm,0.02,feeler gauge set F-03,route team,supplemental foot check
+AL-026,2026-07-07,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.03,feeler gauge set F-03,route team,supplemental foot check
+AL-027,2026-07-08,AGT-44,GBX-44,MTR-44,gearbox foot rear left,soft-foot reading,gearbox foot rear left soft-foot,mm,0.04,feeler gauge set F-03,route team,supplemental foot check
+AL-028,2026-07-09,AGT-44,GBX-44,MTR-44,motor foot rear right,soft-foot reading,motor foot rear right soft-foot,mm,0.05,feeler gauge set F-03,route team,supplemental foot check
+AL-029,2026-07-10,AGT-44,GBX-44,MTR-44,motor foot rear left,soft-foot reading,motor foot rear left soft-foot,mm,0.06,feeler gauge set F-03,route team,supplemental foot check
+AL-030,2026-07-05,AGT-44,GBX-44,MTR-44,gearbox foot front right,soft-foot reading,gearbox foot front right soft-foot,mm,0.02,feeler gauge set F-03,route team,supplemental foot check

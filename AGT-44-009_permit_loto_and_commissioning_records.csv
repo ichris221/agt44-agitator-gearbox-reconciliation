@@ -1,0 +1,133 @@
+record_id,record_date,agitator_tag,gearbox_tag,motor_tag,component,record_type,item_description,unit,source_value,permit_reference,closeout_reference,record_note
+COM-001,2026-07-10,AGT-44,GBX-44,MTR-44,impeller shaft,commissioning,impeller shaft speed tachometer,rpm,92.0,PTW-44-0710-D,CO-44-0710-A,commissioning tachometer
+COM-002,2026-07-10,AGT-44,GBX-44,MTR-44,gearbox,commissioning,gearbox oil temperature,degC,80.0,PTW-44-0710-D,CO-44-0710-A,steady one hour run
+COM-003,2026-07-10,AGT-44,GBX-44,MTR-44,mechanical seal,commissioning,seal leakage rate,ml/min,5.5,PTW-44-0710-D,CO-44-0710-A,graduated cylinder
+COM-004,2026-07-10,AGT-44,GBX-44,MTR-44,seal flush,commissioning,seal flush flow,L/min,2.2,PTW-44-0710-D,CO-44-0710-A,rotameter
+COM-005,2026-07-10,AGT-44,GBX-44,MTR-44,seal flush,commissioning,seal flush pressure,bar,1.4,PTW-44-0710-D,CO-44-0710-A,panel gauge
+COM-006,2026-07-10,AGT-44,GBX-44,MTR-44,motor,commissioning,motor current,A,99.5,PTW-44-0710-D,CO-44-0710-A,MCC readout
+COM-007,2026-07-10,AGT-44,GBX-44,MTR-44,coupling,commissioning,coupling horizontal offset,mm,0.08,PTW-44-0710-D,CO-44-0710-A,laser alignment final read
+COM-008,2026-07-10,AGT-44,GBX-44,MTR-44,coupling,commissioning,coupling angularity,deg,0.09,PTW-44-0710-D,CO-44-0710-A,laser alignment final read
+PER-001,2026-07-08,AGT-44,GBX-44,MTR-44,permit,permit/LOTO,agitator isolation permit reference,text,,,CO-44-0708-B,permit number not written on night handover
+PER-002,2026-07-10,AGT-44,GBX-44,MTR-44,commissioning,closeout,commissioning closeout reference,text,,PTW-44-0710-D,,closeout not assigned at shift handover
+TXT-001,2026-07-10,AGT-44,GBX-44,MTR-44,seal flush,handover note,seal pot sight glass condition,text,cloudy sight glass,PTW-44-0710-D,CO-44-0710-A,operator handover
+TXT-002,2026-07-10,AGT-44,GBX-44,MTR-44,coupling guard,handover note,return to normal handover status,text,not signed,PTW-44-0710-D,,signature box blank
+CTR-0001,2026-07-10 00:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0002,2026-07-10 01:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0003,2026-07-10 01:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0004,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0005,2026-07-10 02:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0006,2026-07-10 03:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0007,2026-07-10 03:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0008,2026-07-10 04:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0009,2026-07-10 04:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0010,2026-07-10 05:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0011,2026-07-10 05:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0012,2026-07-10 06:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0013,2026-07-10 06:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0014,2026-07-10 07:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0015,2026-07-10 07:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0016,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0017,2026-07-10 08:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0018,2026-07-10 09:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0019,2026-07-10 09:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0020,2026-07-10 10:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0021,2026-07-10 10:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0022,2026-07-10 11:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0023,2026-07-10 11:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0024,2026-07-10 12:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0025,2026-07-10 12:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0026,2026-07-10 13:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0027,2026-07-10 13:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0028,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0029,2026-07-10 14:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0030,2026-07-10 15:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0031,2026-07-10 15:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0032,2026-07-10 16:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0033,2026-07-10 16:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0034,2026-07-10 17:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0035,2026-07-10 17:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0036,2026-07-10 18:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0037,2026-07-10 18:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.5,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0038,2026-07-10 19:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0039,2026-07-10 19:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0040,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0041,2026-07-10 20:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0042,2026-07-10 21:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0043,2026-07-10 21:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0044,2026-07-10 22:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0045,2026-07-10 22:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0046,2026-07-10 23:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0047,2026-07-10 23:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0048,2026-07-11 00:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0049,2026-07-11 00:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0050,2026-07-11 01:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0051,2026-07-11 01:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0052,2026-07-11 02:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0053,2026-07-11 02:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0054,2026-07-11 03:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0055,2026-07-11 03:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0056,2026-07-11 04:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0057,2026-07-11 04:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0058,2026-07-11 05:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0059,2026-07-11 05:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0060,2026-07-11 06:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0061,2026-07-11 06:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0062,2026-07-11 07:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0063,2026-07-11 07:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0064,2026-07-11 08:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0065,2026-07-11 08:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0066,2026-07-11 09:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0067,2026-07-11 09:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0068,2026-07-11 10:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0069,2026-07-11 10:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0070,2026-07-11 11:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0071,2026-07-11 11:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0072,2026-07-11 12:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0073,2026-07-11 12:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0074,2026-07-11 13:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.56,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0075,2026-07-11 13:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0076,2026-07-11 14:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0077,2026-07-11 14:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0078,2026-07-11 15:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0079,2026-07-11 15:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0080,2026-07-11 16:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0081,2026-07-11 16:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0082,2026-07-11 17:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0083,2026-07-11 17:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0084,2026-07-11 18:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0085,2026-07-11 18:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0086,2026-07-11 19:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0087,2026-07-11 19:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0088,2026-07-11 20:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0089,2026-07-11 20:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0090,2026-07-11 21:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0091,2026-07-11 21:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0092,2026-07-11 22:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0093,2026-07-11 22:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0094,2026-07-11 23:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0095,2026-07-11 23:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0096,2026-07-12 00:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0097,2026-07-12 00:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0098,2026-07-12 01:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0099,2026-07-12 01:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,1.74,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0100,2026-07-12 02:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0101,2026-07-12 02:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0102,2026-07-12 03:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0103,2026-07-12 03:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0104,2026-07-12 04:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0105,2026-07-12 04:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0106,2026-07-12 05:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0107,2026-07-12 05:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0108,2026-07-12 06:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0109,2026-07-12 06:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.1,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0110,2026-07-12 07:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.16,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0111,2026-07-12 07:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.14,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0112,2026-07-12 08:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.3,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0113,2026-07-12 08:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.4,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0114,2026-07-12 09:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.48,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0115,2026-07-12 09:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.06,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0116,2026-07-12 10:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.6,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0117,2026-07-12 10:30,AGT-44,GBX-44,MTR-44,motor,commissioning trend,motor current,A,96.7,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0118,2026-07-12 11:00,AGT-44,GBX-44,MTR-44,impeller,commissioning trend,impeller shaft speed tachometer,rpm,92.80,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0119,2026-07-12 11:30,AGT-44,GBX-44,MTR-44,seal,commissioning trend,seal flush pressure,bar,2.38,PTW-44-0710-D,CO-44-0710-A,commissioning trend
+CTR-0120,2026-07-12 12:00,AGT-44,GBX-44,MTR-44,gearbox,commissioning trend,gearbox oil temperature,degC,78.0,PTW-44-0710-D,CO-44-0710-A,commissioning trend

@@ -1,0 +1,41 @@
+record_id,sample_date,agitator_tag,gearbox_tag,motor_tag,component,measurement_type,item_description,unit,source_value,lab_or_inspector,record_note
+OA-4407-01,2026-07-04,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,326.0,North Lab,baseline after oil change
+OA-4407-02,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,284.0,North Lab,shear-low result
+OA-4407-03,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,690,North Lab,Karl Fischer
+OA-4407-04,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox oil,ISO cleanliness code,ISO cleanliness code,code,21/19/16,North Lab,automatic particle counter
+OA-4407-04-DUP,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox oil,ISO cleanliness code,ISO cleanliness code,code,21/19/16,North Lab,repeat upload from lab export
+GBX-INS-001,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox,breather condition,breather condition,text,dust loaded,T. Banner,visual inspection
+GBX-INS-002,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox,sight glass condition,sight glass condition,text,foaming visible,T. Banner,visual inspection
+GBX-INS-003,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox DE bearing,bearing temperature,gearbox DE bearing temperature,degC,84.0,T. Banner,contact probe
+OA-TREND-009,2026-06-29,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,404,North Lab,routine monthly trend
+OA-TREND-010,2026-06-30,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,322.00,North Lab,routine monthly trend
+OA-TREND-011,2026-07-01,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.40,North Lab,routine monthly trend
+OA-TREND-012,2026-07-02,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-013,2026-07-03,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,428,North Lab,routine monthly trend
+OA-TREND-014,2026-07-04,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,318.80,North Lab,routine monthly trend
+OA-TREND-015,2026-07-05,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.36,North Lab,routine monthly trend
+OA-TREND-016,2026-07-06,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-017,2026-07-07,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,452,North Lab,routine monthly trend
+OA-TREND-018,2026-07-08,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,315.60,North Lab,routine monthly trend
+OA-TREND-019,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.32,North Lab,routine monthly trend
+OA-TREND-020,2026-07-10,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-021,2026-07-11,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,476,North Lab,routine monthly trend
+OA-TREND-022,2026-07-12,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,312.40,North Lab,routine monthly trend
+OA-TREND-023,2026-07-13,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.40,North Lab,routine monthly trend
+OA-TREND-024,2026-07-14,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-025,2026-07-15,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,500,North Lab,routine monthly trend
+OA-TREND-026,2026-07-16,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,309.20,North Lab,routine monthly trend
+OA-TREND-027,2026-07-17,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.36,North Lab,routine monthly trend
+OA-TREND-028,2026-07-18,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-029,2026-07-19,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,524,North Lab,routine monthly trend
+OA-TREND-030,2026-07-20,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,306.00,North Lab,routine monthly trend
+OA-TREND-031,2026-07-21,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.32,North Lab,routine monthly trend
+OA-TREND-032,2026-07-22,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-033,2026-07-23,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,548,North Lab,routine monthly trend
+OA-TREND-034,2026-07-24,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,302.80,North Lab,routine monthly trend
+OA-TREND-035,2026-07-25,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.40,North Lab,routine monthly trend
+OA-TREND-036,2026-07-26,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend
+OA-TREND-037,2026-07-27,AGT-44,GBX-44,MTR-44,gearbox oil,water content,water content,ppm,572,North Lab,routine monthly trend
+OA-TREND-038,2026-07-28,AGT-44,GBX-44,MTR-44,gearbox oil,viscosity at 40C,viscosity at 40C,cSt,299.60,North Lab,routine monthly trend
+OA-TREND-039,2026-07-29,AGT-44,GBX-44,MTR-44,gearbox oil,acid number,acid number,mgKOH/g,0.36,North Lab,routine monthly trend
+OA-TREND-040,2026-07-30,AGT-44,GBX-44,MTR-44,gearbox oil,ferrous debris,ferrous debris index,index,11,North Lab,routine monthly trend

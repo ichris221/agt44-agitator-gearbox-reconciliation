@@ -1,0 +1,215 @@
+record_id,work_order,service_date,agitator_tag,gearbox_tag,motor_tag,component,measurement_type,item_description,unit,source_value,technician,record_note
+WO-99001,WO-99001,2026-06-28,AGT-44,GBX-44,MTR-44,coupling guard,checklist,coupling guard fitted,text,yes,J. Karim,guard panels present before PM
+WO-99002,WO-99002,2026-06-28,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.8,J. Karim,manual rotameter read
+WO-99003,WO-99003,2026-07-03,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil grade,gearbox oil grade,text,ISO VG 320 EP,M. Sato,drum label observed at service bay
+WO-99004,WO-99003,2026-07-03,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil fill quantity,gearbox oil fill quantity,L,,M. Sato,filled after drain; final litre count not written
+WO-99005,WO-99005,2026-07-04,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil fill quantity,gearbox oil fill quantity,L,24.5,H. Osei,fill count entered after shift check
+WO-99006,WO-99006,2026-07-04,AGT-44,GBX-44,MTR-44,mechanical seal,mechanical seal kit part number,mechanical seal kit part number,text,MSK-44B,H. Osei,kit on service sheet
+WO-99007,WO-99007,2026-07-06,AGT-44,GBX-44,MTR-44,gearbox,impeller shaft speed tachometer,impeller shaft speed tachometer,rpm,91,K. Holt,tachometer at mixer shaft boss
+WO-99008,WO-99008,2026-07-06,AGT-44,GBX-44,MTR-44,seal flush,seal flush pressure,seal flush pressure,bar,1.6,K. Holt,seal panel gauge
+WO-99009,WO-99009,2026-07-08,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.1,K. Holt,operator noted intermittent rotameter bounce
+WO-99010,WO-99010,2026-07-08,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,103.2,K. Holt,MCC display at batch heat-up
+WO-99011,WO-99011,2026-07-09,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,86.0,R. Keane,IR gun on sump boss
+WO-99012,WO-99012,2026-07-09,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.8,R. Keane,graduated cup timed for five minutes
+WO-99013,WO-99013,2026-07-10,AGT-44,GBX-44,MTR-44,coupling,coupling guard fitted,coupling guard fitted,text,yes,N. Kovac,post PM guard check
+WO-99014,WO-99014,2026-07-10,AGT-44,GBX-44,MTR-44,seal flush,seal flush pressure,seal flush pressure,bar,1.3,N. Kovac,low panel pressure at start of day
+PMT-0015,TREND-070102,2026-07-01 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.1,shift log,routine historian entry
+PMT-0016,TREND-070102,2026-07-01 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.44,shift log,routine historian entry
+PMT-0017,TREND-070102,2026-07-01 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.1,shift log,routine historian entry
+PMT-0018,TREND-070102,2026-07-01 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.54,shift log,routine historian entry
+PMT-0019,TREND-070102,2026-07-01 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.73,shift log,routine historian entry
+PMT-0020,TREND-070108,2026-07-01 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.2,shift log,routine historian entry
+PMT-0021,TREND-070108,2026-07-01 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.54,shift log,routine historian entry
+PMT-0022,TREND-070108,2026-07-01 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.2,shift log,routine historian entry
+PMT-0023,TREND-070108,2026-07-01 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.62,shift log,routine historian entry
+PMT-0024,TREND-070108,2026-07-01 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.79,shift log,routine historian entry
+PMT-0025,TREND-070114,2026-07-01 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.3,shift log,routine historian entry
+PMT-0026,TREND-070114,2026-07-01 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.54,shift log,routine historian entry
+PMT-0027,TREND-070114,2026-07-01 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.2,shift log,routine historian entry
+PMT-0028,TREND-070114,2026-07-01 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.62,shift log,routine historian entry
+PMT-0029,TREND-070114,2026-07-01 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.77,shift log,routine historian entry
+PMT-0030,TREND-070120,2026-07-01 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.2,shift log,routine historian entry
+PMT-0031,TREND-070120,2026-07-01 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.48,shift log,routine historian entry
+PMT-0032,TREND-070120,2026-07-01 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.2,shift log,routine historian entry
+PMT-0033,TREND-070120,2026-07-01 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.55,shift log,routine historian entry
+PMT-0034,TREND-070120,2026-07-01 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.67,shift log,routine historian entry
+PMT-0035,TREND-070202,2026-07-02 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.3,shift log,routine historian entry
+PMT-0036,TREND-070202,2026-07-02 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.44,shift log,routine historian entry
+PMT-0037,TREND-070202,2026-07-02 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.2,shift log,routine historian entry
+PMT-0038,TREND-070202,2026-07-02 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.49,shift log,routine historian entry
+PMT-0039,TREND-070202,2026-07-02 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.60,shift log,routine historian entry
+PMT-0040,TREND-070208,2026-07-02 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.3,shift log,routine historian entry
+PMT-0041,TREND-070208,2026-07-02 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.48,shift log,routine historian entry
+PMT-0042,TREND-070208,2026-07-02 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.2,shift log,routine historian entry
+PMT-0043,TREND-070208,2026-07-02 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.53,shift log,routine historian entry
+PMT-0044,TREND-070208,2026-07-02 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.61,shift log,routine historian entry
+PMT-0045,TREND-070214,2026-07-02 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.5,shift log,routine historian entry
+PMT-0046,TREND-070214,2026-07-02 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.60,shift log,routine historian entry
+PMT-0047,TREND-070214,2026-07-02 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.4,shift log,routine historian entry
+PMT-0048,TREND-070214,2026-07-02 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.63,shift log,routine historian entry
+PMT-0049,TREND-070214,2026-07-02 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.69,shift log,routine historian entry
+PMT-0050,TREND-070220,2026-07-02 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.7,shift log,routine historian entry
+PMT-0051,TREND-070220,2026-07-02 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.71,shift log,routine historian entry
+PMT-0052,TREND-070220,2026-07-02 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.5,shift log,routine historian entry
+PMT-0053,TREND-070220,2026-07-02 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.73,shift log,routine historian entry
+PMT-0054,TREND-070220,2026-07-02 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.77,shift log,routine historian entry
+PMT-0055,TREND-070302,2026-07-03 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.8,shift log,routine historian entry
+PMT-0056,TREND-070302,2026-07-03 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.74,shift log,routine historian entry
+PMT-0057,TREND-070302,2026-07-03 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.6,shift log,routine historian entry
+PMT-0058,TREND-070302,2026-07-03 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.76,shift log,routine historian entry
+PMT-0059,TREND-070302,2026-07-03 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.77,shift log,routine historian entry
+PMT-0060,TREND-070308,2026-07-03 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.8,shift log,routine historian entry
+PMT-0061,TREND-070308,2026-07-03 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.69,shift log,routine historian entry
+PMT-0062,TREND-070308,2026-07-03 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.6,shift log,routine historian entry
+PMT-0063,TREND-070308,2026-07-03 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.70,shift log,routine historian entry
+PMT-0064,TREND-070308,2026-07-03 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.69,shift log,routine historian entry
+PMT-0065,TREND-070314,2026-07-03 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.7,shift log,routine historian entry
+PMT-0066,TREND-070314,2026-07-03 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.63,shift log,routine historian entry
+PMT-0067,TREND-070314,2026-07-03 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.5,shift log,routine historian entry
+PMT-0068,TREND-070314,2026-07-03 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.63,shift log,routine historian entry
+PMT-0069,TREND-070314,2026-07-03 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.60,shift log,routine historian entry
+PMT-0070,TREND-070320,2026-07-03 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,75.8,shift log,routine historian entry
+PMT-0071,TREND-070320,2026-07-03 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.65,shift log,routine historian entry
+PMT-0072,TREND-070320,2026-07-03 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.6,shift log,routine historian entry
+PMT-0073,TREND-070320,2026-07-03 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.63,shift log,routine historian entry
+PMT-0074,TREND-070320,2026-07-03 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.58,shift log,routine historian entry
+PMT-0075,TREND-070402,2026-07-04 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.0,shift log,routine historian entry
+PMT-0076,TREND-070402,2026-07-04 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.75,shift log,routine historian entry
+PMT-0077,TREND-070402,2026-07-04 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.7,shift log,routine historian entry
+PMT-0078,TREND-070402,2026-07-04 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.72,shift log,routine historian entry
+PMT-0079,TREND-070402,2026-07-04 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.65,shift log,routine historian entry
+PMT-0080,TREND-070408,2026-07-04 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.1,shift log,routine historian entry
+PMT-0081,TREND-070408,2026-07-04 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.87,shift log,routine historian entry
+PMT-0082,TREND-070408,2026-07-04 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.9,shift log,routine historian entry
+PMT-0083,TREND-070408,2026-07-04 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.84,shift log,routine historian entry
+PMT-0084,TREND-070408,2026-07-04 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.74,shift log,routine historian entry
+PMT-0085,TREND-070414,2026-07-04 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.2,shift log,routine historian entry
+PMT-0086,TREND-070414,2026-07-04 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.93,shift log,routine historian entry
+PMT-0087,TREND-070414,2026-07-04 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.0,shift log,routine historian entry
+PMT-0088,TREND-070414,2026-07-04 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.88,shift log,routine historian entry
+PMT-0089,TREND-070414,2026-07-04 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.77,shift log,routine historian entry
+PMT-0090,TREND-070420,2026-07-04 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.3,shift log,routine historian entry
+PMT-0091,TREND-070420,2026-07-04 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.90,shift log,routine historian entry
+PMT-0092,TREND-070420,2026-07-04 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.0,shift log,routine historian entry
+PMT-0093,TREND-070420,2026-07-04 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.84,shift log,routine historian entry
+PMT-0094,TREND-070420,2026-07-04 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.71,shift log,routine historian entry
+PMT-0095,TREND-070502,2026-07-05 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.2,shift log,routine historian entry
+PMT-0096,TREND-070502,2026-07-05 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.83,shift log,routine historian entry
+PMT-0097,TREND-070502,2026-07-05 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.9,shift log,routine historian entry
+PMT-0098,TREND-070502,2026-07-05 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.77,shift log,routine historian entry
+PMT-0099,TREND-070502,2026-07-05 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.61,shift log,routine historian entry
+PMT-0100,TREND-070508,2026-07-05 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.3,shift log,routine historian entry
+PMT-0101,TREND-070508,2026-07-05 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.82,shift log,routine historian entry
+PMT-0102,TREND-070508,2026-07-05 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,86.9,shift log,routine historian entry
+PMT-0103,TREND-070508,2026-07-05 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.75,shift log,routine historian entry
+PMT-0104,TREND-070508,2026-07-05 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.57,shift log,routine historian entry
+PMT-0105,TREND-070514,2026-07-05 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.4,shift log,routine historian entry
+PMT-0106,TREND-070514,2026-07-05 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,5.90,shift log,routine historian entry
+PMT-0107,TREND-070514,2026-07-05 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.1,shift log,routine historian entry
+PMT-0108,TREND-070514,2026-07-05 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.82,shift log,routine historian entry
+PMT-0109,TREND-070514,2026-07-05 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.61,shift log,routine historian entry
+PMT-0110,TREND-070520,2026-07-05 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.6,shift log,routine historian entry
+PMT-0111,TREND-070520,2026-07-05 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.03,shift log,routine historian entry
+PMT-0112,TREND-070520,2026-07-05 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.2,shift log,routine historian entry
+PMT-0113,TREND-070520,2026-07-05 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.93,shift log,routine historian entry
+PMT-0114,TREND-070520,2026-07-05 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.71,shift log,routine historian entry
+PMT-0115,TREND-070602,2026-07-06 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.7,shift log,routine historian entry
+PMT-0116,TREND-070602,2026-07-06 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.11,shift log,routine historian entry
+PMT-0117,TREND-070602,2026-07-06 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.3,shift log,routine historian entry
+PMT-0118,TREND-070602,2026-07-06 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.01,shift log,routine historian entry
+PMT-0119,TREND-070602,2026-07-06 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.76,shift log,routine historian entry
+PMT-0120,TREND-070608,2026-07-06 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.8,shift log,routine historian entry
+PMT-0121,TREND-070608,2026-07-06 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.10,shift log,routine historian entry
+PMT-0122,TREND-070608,2026-07-06 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.3,shift log,routine historian entry
+PMT-0123,TREND-070608,2026-07-06 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.99,shift log,routine historian entry
+PMT-0124,TREND-070608,2026-07-06 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.72,shift log,routine historian entry
+PMT-0125,TREND-070614,2026-07-06 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.8,shift log,routine historian entry
+PMT-0126,TREND-070614,2026-07-06 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.04,shift log,routine historian entry
+PMT-0127,TREND-070614,2026-07-06 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.3,shift log,routine historian entry
+PMT-0128,TREND-070614,2026-07-06 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.91,shift log,routine historian entry
+PMT-0129,TREND-070614,2026-07-06 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.62,shift log,routine historian entry
+PMT-0130,TREND-070620,2026-07-06 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.8,shift log,routine historian entry
+PMT-0131,TREND-070620,2026-07-06 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.00,shift log,routine historian entry
+PMT-0132,TREND-070620,2026-07-06 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.3,shift log,routine historian entry
+PMT-0133,TREND-070620,2026-07-06 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.87,shift log,routine historian entry
+PMT-0134,TREND-070620,2026-07-06 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.56,shift log,routine historian entry
+PMT-0135,TREND-070702,2026-07-07 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,76.9,shift log,routine historian entry
+PMT-0136,TREND-070702,2026-07-07 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.06,shift log,routine historian entry
+PMT-0137,TREND-070702,2026-07-07 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.4,shift log,routine historian entry
+PMT-0138,TREND-070702,2026-07-07 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,3.91,shift log,routine historian entry
+PMT-0139,TREND-070702,2026-07-07 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.58,shift log,routine historian entry
+PMT-0140,TREND-070708,2026-07-07 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.0,shift log,routine historian entry
+PMT-0141,TREND-070708,2026-07-07 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.18,shift log,routine historian entry
+PMT-0142,TREND-070708,2026-07-07 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.5,shift log,routine historian entry
+PMT-0143,TREND-070708,2026-07-07 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.03,shift log,routine historian entry
+PMT-0144,TREND-070708,2026-07-07 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.67,shift log,routine historian entry
+PMT-0145,TREND-070714,2026-07-07 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.2,shift log,routine historian entry
+PMT-0146,TREND-070714,2026-07-07 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.28,shift log,routine historian entry
+PMT-0147,TREND-070714,2026-07-07 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.7,shift log,routine historian entry
+PMT-0148,TREND-070714,2026-07-07 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.12,shift log,routine historian entry
+PMT-0149,TREND-070714,2026-07-07 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.74,shift log,routine historian entry
+PMT-0150,TREND-070720,2026-07-07 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.3,shift log,routine historian entry
+PMT-0151,TREND-070720,2026-07-07 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.30,shift log,routine historian entry
+PMT-0152,TREND-070720,2026-07-07 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.7,shift log,routine historian entry
+PMT-0153,TREND-070720,2026-07-07 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.13,shift log,routine historian entry
+PMT-0154,TREND-070720,2026-07-07 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.73,shift log,routine historian entry
+PMT-0155,TREND-070802,2026-07-08 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.3,shift log,routine historian entry
+PMT-0156,TREND-070802,2026-07-08 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.24,shift log,routine historian entry
+PMT-0157,TREND-070802,2026-07-08 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.7,shift log,routine historian entry
+PMT-0158,TREND-070802,2026-07-08 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.06,shift log,routine historian entry
+PMT-0159,TREND-070802,2026-07-08 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.64,shift log,routine historian entry
+PMT-0160,TREND-070808,2026-07-08 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.3,shift log,routine historian entry
+PMT-0161,TREND-070808,2026-07-08 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.19,shift log,routine historian entry
+PMT-0162,TREND-070808,2026-07-08 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.7,shift log,routine historian entry
+PMT-0163,TREND-070808,2026-07-08 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.00,shift log,routine historian entry
+PMT-0164,TREND-070808,2026-07-08 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.55,shift log,routine historian entry
+PMT-0165,TREND-070814,2026-07-08 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,88.4,shift log,routine historian entry
+PMT-0166,TREND-070814,2026-07-08 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,7.60,shift log,routine historian entry
+PMT-0167,TREND-070814,2026-07-08 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,104.5,shift log,routine historian entry
+PMT-0168,TREND-070814,2026-07-08 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,6.00,shift log,routine historian entry
+PMT-0169,TREND-070814,2026-07-08 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.10,shift log,routine historian entry
+PMT-0170,TREND-070820,2026-07-08 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.5,shift log,routine historian entry
+PMT-0171,TREND-070820,2026-07-08 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.33,shift log,routine historian entry
+PMT-0172,TREND-070820,2026-07-08 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,87.9,shift log,routine historian entry
+PMT-0173,TREND-070820,2026-07-08 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.12,shift log,routine historian entry
+PMT-0174,TREND-070820,2026-07-08 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.63,shift log,routine historian entry
+PMT-0175,TREND-070902,2026-07-09 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.7,shift log,routine historian entry
+PMT-0176,TREND-070902,2026-07-09 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.45,shift log,routine historian entry
+PMT-0177,TREND-070902,2026-07-09 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.0,shift log,routine historian entry
+PMT-0178,TREND-070902,2026-07-09 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.23,shift log,routine historian entry
+PMT-0179,TREND-070902,2026-07-09 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.71,shift log,routine historian entry
+PMT-0180,TREND-070908,2026-07-09 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.8,shift log,routine historian entry
+PMT-0181,TREND-070908,2026-07-09 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.49,shift log,routine historian entry
+PMT-0182,TREND-070908,2026-07-09 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.1,shift log,routine historian entry
+PMT-0183,TREND-070908,2026-07-09 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.26,shift log,routine historian entry
+PMT-0184,TREND-070908,2026-07-09 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.73,shift log,routine historian entry
+PMT-0185,TREND-070914,2026-07-09 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.8,shift log,routine historian entry
+PMT-0186,TREND-070914,2026-07-09 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.45,shift log,routine historian entry
+PMT-0187,TREND-070914,2026-07-09 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.1,shift log,routine historian entry
+PMT-0188,TREND-070914,2026-07-09 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.21,shift log,routine historian entry
+PMT-0189,TREND-070914,2026-07-09 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.65,shift log,routine historian entry
+PMT-0190,TREND-070920,2026-07-09 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.8,shift log,routine historian entry
+PMT-0191,TREND-070920,2026-07-09 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.39,shift log,routine historian entry
+PMT-0192,TREND-070920,2026-07-09 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.0,shift log,routine historian entry
+PMT-0193,TREND-070920,2026-07-09 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.14,shift log,routine historian entry
+PMT-0194,TREND-070920,2026-07-09 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.56,shift log,routine historian entry
+PMT-0195,TREND-071002,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,77.8,shift log,routine historian entry
+PMT-0196,TREND-071002,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.39,shift log,routine historian entry
+PMT-0197,TREND-071002,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.1,shift log,routine historian entry
+PMT-0198,TREND-071002,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.13,shift log,routine historian entry
+PMT-0199,TREND-071002,2026-07-10 02:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.53,shift log,routine historian entry
+PMT-0200,TREND-071008,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,78.0,shift log,routine historian entry
+PMT-0201,TREND-071008,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.48,shift log,routine historian entry
+PMT-0202,TREND-071008,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.2,shift log,routine historian entry
+PMT-0203,TREND-071008,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.21,shift log,routine historian entry
+PMT-0204,TREND-071008,2026-07-10 08:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.59,shift log,routine historian entry
+PMT-0205,TREND-071014,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,78.1,shift log,routine historian entry
+PMT-0206,TREND-071014,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.61,shift log,routine historian entry
+PMT-0207,TREND-071014,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.4,shift log,routine historian entry
+PMT-0208,TREND-071014,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.33,shift log,routine historian entry
+PMT-0209,TREND-071014,2026-07-10 14:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.68,shift log,routine historian entry
+PMT-0210,TREND-071020,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,gearbox,gearbox oil temperature,gearbox oil temperature,degC,78.2,shift log,routine historian entry
+PMT-0211,TREND-071020,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,gearbox DE bearing,vibration velocity horizontal,gearbox DE bearing vibration velocity horizontal,mm/s,6.68,shift log,routine historian entry
+PMT-0212,TREND-071020,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,motor,motor current,motor current,A,88.5,shift log,routine historian entry
+PMT-0213,TREND-071020,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,mechanical seal,seal leakage rate,mechanical seal leakage rate,ml/min,4.39,shift log,routine historian entry
+PMT-0214,TREND-071020,2026-07-10 20:00,AGT-44,GBX-44,MTR-44,seal flush,seal flush flow,seal flush flow,L/min,2.72,shift log,routine historian entry

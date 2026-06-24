@@ -1,3 +1,23 @@
+License Coverage
+
+This repository and the following files are released under the Creative Commons Zero v1.0 Universal license (CC0 1.0), unless otherwise stated:
+
+AGT-44-001_asset_register_and_drive_data.xlsx
+AGT-44-002_pm_work_orders_and_service_history.csv
+AGT-44-003_vibration_temperature_current_log.csv
+AGT-44-004_alignment_runout_and_softfoot_readings.csv
+AGT-44-005_oil_sample_and_gearbox_inspection.csv
+AGT-44-006_seal_flush_and_leak_inspection_notes.docx
+AGT-44-007_parts_torque_and_coupling_guard_schedule.xlsx
+AGT-44-008_internal_maintenance_limits_reference.pdf
+AGT-44-009_permit_loto_and_commissioning_records.csv
+
+All files listed above are original, self-generated project reference files created for the AGT-44 mechanical engineering technician record-reconciliation task. They do not reproduce third-party vendor manuals, proprietary OEM documentation, copyrighted maintenance manuals, or externally sourced tables.
+
+The file AGT-44-008_internal_maintenance_limits_reference.pdf is an original, self-generated internal maintenance-limit reference created for this task.
+
+These files may be copied, modified, distributed, and reused without additional permission, subject to the terms of CC0 1.0 Universal.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
